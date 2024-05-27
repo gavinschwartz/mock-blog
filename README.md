@@ -23,7 +23,7 @@ After building the software, you can run the executable directly:
 
 # bash
 Copy code
-./blog.exe
+`./blog.exe`
 Example Usage
 Upon running the executable, you will be presented with a command-line interface where you can add, list, and view blog posts.
 
