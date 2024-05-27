@@ -15,7 +15,7 @@ To build the software, navigate to the directory containing the source files and
 
 # bash
 Copy code
-sh buildandrun.sh
+sh `buildandrun.sh`
 This script will compile the main.cpp file into an executable named blog.exe and then run the executable.
 
 # running the software
